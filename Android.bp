@@ -5,6 +5,7 @@
 soong_namespace {
     imports: [
         "device/samsung/gta4xl-common",
+        "hardware/samsung",
         "hardware/samsung_slsi-linaro/graphics",
     ],
 }
